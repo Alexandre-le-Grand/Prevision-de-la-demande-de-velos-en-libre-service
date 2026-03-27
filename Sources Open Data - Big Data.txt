@@ -1,0 +1,83 @@
+Sources open source pour trouver des donnees Big Data
+===================================================
+
+Ce document liste des plateformes fiables ou les etudiants peuvent trouver des jeux de donnees volumineux, reutilisables pour un projet Data/ML.
+
+1) Portails open data generalistes
+----------------------------------
+- data.gouv.fr (France) : https://www.data.gouv.fr/
+  -> Donnees publiques francaises (transport, energie, sante, environnement, etc.)
+
+- EU Open Data Portal (data.europa.eu) : https://data.europa.eu/
+  -> Donnees institutionnelles europeennes.
+
+- World Bank Open Data : https://data.worldbank.org/
+  -> Indicateurs economiques et sociaux mondiaux.
+
+- UN Data : https://data.un.org/
+  -> Donnees statistiques internationales.
+
+- OECD Data : https://data.oecd.org/
+  -> Donnees economiques, education, emploi, finance, etc.
+
+
+2) Plateformes datasets pour Data Science / ML
+-----------------------------------------------
+- Kaggle Datasets : https://www.kaggle.com/datasets
+  -> Grand choix de datasets, competitions, notebooks.
+
+- UCI Machine Learning Repository : https://archive.ics.uci.edu/
+  -> Datasets classiques pour l'apprentissage automatique.
+
+- OpenML : https://www.openml.org/
+  -> Jeux de donnees et benchmarks ML.
+
+- Hugging Face Datasets : https://huggingface.co/datasets
+  -> Donnees texte, image, audio a grande echelle.
+
+- Google Dataset Search : https://datasetsearch.research.google.com/
+  -> Moteur de recherche de datasets open data.
+
+
+3) Sources specialisees "Big Data"
+----------------------------------
+- AWS Open Data Registry : https://registry.opendata.aws/
+  -> Jeux tres volumineux (climat, genomique, imagerie satellite, etc.).
+
+- Google Cloud Public Datasets / BigQuery Public Data : https://cloud.google.com/public-datasets
+  -> Datasets accessibles via requetes SQL BigQuery.
+
+- Microsoft Research Open Data : https://msropendata.com/
+  -> Datasets de recherche scientifique.
+
+- Common Crawl : https://commoncrawl.org/
+  -> Donnees massives du web (crawl web regulier).
+
+- OpenStreetMap (exports) : https://www.openstreetmap.org/ ; https://download.geofabrik.de/
+  -> Donnees geospatiales mondiales (cartographie).
+
+
+4) Donnees temps reel / APIs (utile pour projets dynamiques)
+-------------------------------------------------------------
+- Meteo (Open-Meteo) : https://open-meteo.com/
+- Crypto (CoinGecko API) : https://www.coingecko.com/en/api
+- Transport local (selon ville via open data municipal)
+- Reddit (API/archives) : https://www.reddit.com/dev/api/
+
+
+5) Conseils de selection pour les etudiants
+--------------------------------------------
+- Verifier la licence (Open Database License, CC-BY, etc.).
+- Verifier la taille et la qualite du dataset avant de commencer.
+- Privilegier une problematique claire et mesurable.
+- Utiliser un dataset principal + eventuellement une source complementaire.
+- Documenter la provenance des donnees dans le rapport final.
+
+
+6) Exemples de themes de projet
+-------------------------------
+- Prediction de la consommation energetique.
+- Analyse des retards de transport.
+- Detection d'anomalies dans des donnees IoT.
+- Classification de textes (avis clients, news, etc.).
+- Analyse geospatiale (mobilite, points d'interet, accessibilite).
